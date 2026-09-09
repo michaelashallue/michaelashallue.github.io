@@ -9,6 +9,6 @@ I am a PhD candidate in the Department of Civil and Environmental Engineering an
 
 ## Education
 
-- PhD Civil & Environmental Engineering, 2024 - Present | Utah State University
-- MSc Geology, 2023 | Utah State University
-- BS Geology, 2019 | Northern Arizona University
+- PhD Civil & Environmental Engineering, Utah State University, 2024 - Present
+- MSc Geology, Utah State University, 2023
+- BS Geology, Northern Arizona University, 2019
