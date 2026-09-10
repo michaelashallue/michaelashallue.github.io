@@ -4,9 +4,6 @@ title: "CV"
 author_profile: true
 ---
 
-<div style="display: flex; gap: 30px; align-items: flex-start;" markdown="1">
-  <div style="flex: 1;" markdown="1">
-
 **[Download full CV (PDF)](/files/Shallue_CV.pdf)** — Last updated September 2026
 
 ## Education
@@ -20,12 +17,6 @@ author_profile: true
 - BS, Geology, *Northern Arizona University*. May 2019.
   - Undergraduate thesis: Hydrologic impacts of climate and land use in Canyon de Chelly, Arizona
   - Advisor: Dr. Taylor Joyal
-
-  </div>
-  <div style="width: 375px; text-align: center;">
-    <img src="/images/pages_images/field.jpg" style="width: 100%; border-radius: 5px;">
-  </div>
-</div>
 
 ## Appointments
 
