@@ -2,6 +2,8 @@
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
+header:
+  image: /headers/Arches.jpg
 ---
 
 ## Recent Courses
