@@ -4,7 +4,6 @@ title: ""
 excerpt: "PhD candidate in fluvial geomorphology at Utah State University"
 author_profile: true
 header:
-header:
   image: /headers/Trachyte.jpg
 ---
 
