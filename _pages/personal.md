@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 <div style="text-align: right;">
-  <img src="/images/pages_images/glacier-np.jpg" width="350">
+  <img src="/images/pages_images/KidMichaela_Glacier.jpg" width="350">
+  <p><em>Thinking about rocks in Glacier NP</em></p>
 </div>
 
 I grew up in Montana and Arizona, and a fun fact about me is that I've lived along US Highway 89 my whole life. My passion for geology began during visits to Glacier National Park, where both the rainbow-colored cobbles in Lake McDonald and the sweeping U-shaped valleys sparked my curiosity about the landscapes around us.
