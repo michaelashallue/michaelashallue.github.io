@@ -7,7 +7,7 @@ gallery_placebased:
   - image_path: /pages_images/Blanding.jpg
 gallery_osl:
   - image_path: /pages_images/Dewey.jpg
-  - image_path: /pages_images/OSL_Sample.jpg
+  - image_path: /pages_images/OSL_Sample.png
 gallery_cdc:
   - image_path: /pages_images/CdC_RainGage.jpg
   - image_path: /pages_images/CdC_StreamGage.jpg
