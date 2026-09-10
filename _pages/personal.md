@@ -14,8 +14,8 @@ I grew up in Montana and Arizona, and a fun fact about me is that I've lived alo
 Outside of research, I spend my time on the things that keep me grounded: hiking and backpacking, reading, yoga, [digital and film photography](/photos/), floating rivers, knitting and crocheting, hanging out with my cat, and exploring the landscapes of the Colorado Plateau and the broader Intermountain West.
 
   </div>
-  <div style="width: 400px; text-align: center;">
-    <img src="/images/pages_images/KidMichaela_Glacier.jpg" style="width: 100%; border-radius: 10px;">
+  <div style="width: 375px; text-align: center;">
+    <img src="/images/pages_images/KidMichaela_Glacier.jpg" style="width: 100%; border-radius: 5px;">
     <p><em>Thinking about rocks in Glacier NP</em></p>
   </div>
 </div>
