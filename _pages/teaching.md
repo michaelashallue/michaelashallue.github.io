@@ -4,10 +4,11 @@ title: "Teaching"
 author_profile: true
 header:
   image: /headers/Arches.jpg
-gallery_teaching:
+gallery_teaching_top:
   - image_path: /pages_images/teach1.jpg
-  - image_path: /pages_images/teach2.jpg
   - image_path: /pages_images/teach3.jpg
+gallery_teaching_bottom:
+  - image_path: /pages_images/teach2.jpg
 ---
 
 ## Recent Courses
@@ -26,4 +27,6 @@ gallery_teaching:
 
 - Geoscience Module: Hillslope Hydrology — Project co-lead (Summer 2022, Summer 2023). Worked with students on fieldwork and data analysis related to rainfall-runoff processes.
 
-{% include gallery id="gallery_teaching" %}
+{% include gallery id="gallery_teaching_top" %}
+
+{% include gallery id="gallery_teaching_bottom" %}
