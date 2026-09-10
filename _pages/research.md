@@ -4,13 +4,19 @@ title: "Research"
 author_profile: true
 gallery_placebased:
   - image_path: /pages_images/RainfallSimulator.jpg
+    title: "Rainfall Simulator"
   - image_path: /pages_images/Blanding.jpg
+    title: "Simulator experiment locale near USU Blanding"
 gallery_osl:
   - image_path: /pages_images/Dewey.jpg
+    title: "Near Dewey, UT"
   - image_path: /pages_images/OSL_Sample.png
+    title: "In situ OSL sample of Colorado River terrace sand"
 gallery_cdc:
   - image_path: /pages_images/CdC_RainGage.jpg
+    title: "Installing a rain gage in Canyon de Chelly NM"
   - image_path: /pages_images/CdC_StreamGage.jpg
+    title: "Installed acoustic stream gage at Black Rock Canyon"
 ---
 
 ## Ongoing Projects
