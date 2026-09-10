@@ -81,7 +81,7 @@ gallery_r23:
   - image_path: /photos/r23_1.jpg
   - image_path: /photos/r23_2.jpg
 gallery_r24:
-  - image_path: /photos/r24.jpg
+  - image_path: /photos/r24.JPG
 gallery_r25:
   - image_path: /photos/r25_1.jpg
   - image_path: /photos/r25_2.jpg
