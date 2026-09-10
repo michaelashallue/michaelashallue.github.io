@@ -3,14 +3,14 @@ permalink: /research/
 title: "Research"
 author_profile: true
 gallery_placebased:
-  - image_path: /images/pages_images/RainfallSimulator.jpg
-  - image_path: /images/pages_images/Blanding.jpg
+  - image_path: /pages_images/RainfallSimulator.jpg
+  - image_path: /pages_images/Blanding.jpg
 gallery_osl:
-  - image_path: /images/pages_images/Dewey.jpg
-  - image_path: /images/pages_images/OSL_Sample.jpg
+  - image_path: /pages_images/Dewey.jpg
+  - image_path: /pages_images/OSL_Sample.jpg
 gallery_cdc:
-  - image_path: /images/pages_images/CdC_RainGage.jpg
-  - image_path: /images/pages_images/CdC_StreamGage.jpg
+  - image_path: /pages_images/CdC_RainGage.jpg
+  - image_path: /pages_images/CdC_StreamGage.jpg
 ---
 
 ## Ongoing Projects
