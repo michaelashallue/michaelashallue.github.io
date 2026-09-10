@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About Me"
 author_profile: true
+header:
+  image: /headers/EQ_Lake.jpg
 ---
 
 <div style="display: flex; gap: 30px; align-items: flex-start;">
