@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 header:
-  image: /headers/CedarBreaks.jpg
+  image: /headers/XB.jpg
 ---
 
 **[Download full CV (PDF)](/files/Shallue_CV.pdf)** — Last updated September 2026
