@@ -15,7 +15,7 @@ Outside of research, I spend my time on the things that keep me grounded: hiking
 
   </div>
   <div style="width: 400px; text-align: center;">
-    <img src="/images/pages_images/KidMichaela_Glacier.jpg" style="width: 100%;">
+    <img src="/images/pages_images/KidMichaela_Glacier.jpg" style="width: 100%; border-radius: 10px;">
     <p><em>Thinking about rocks in Glacier NP</em></p>
   </div>
 </div>
