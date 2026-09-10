@@ -4,7 +4,7 @@ title: "CV"
 author_profile: true
 ---
 
-<div style="display: flex; gap: 30px; align-items: flex-start;">
+<div style="display: flex; gap: 30px; align-items: flex-start;" markdown="1">
   <div style="flex: 1;" markdown="1">
 
 **[Download full CV (PDF)](/files/Shallue_CV.pdf)** — Last updated September 2026
@@ -26,7 +26,6 @@ author_profile: true
     <img src="/images/pages_images/field.jpg" style="width: 100%; border-radius: 5px;">
   </div>
 </div>
-
 
 ## Appointments
 
