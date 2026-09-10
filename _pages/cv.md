@@ -21,6 +21,12 @@ author_profile: true
   - Undergraduate thesis: Hydrologic impacts of climate and land use in Canyon de Chelly, Arizona
   - Advisor: Dr. Taylor Joyal
 
+  </div>
+  <div style="width: 375px; text-align: center;">
+    <img src="/images/pages_images/field.jpg" style="width: 100%; border-radius: 5px;">
+  </div>
+</div>
+
 ## Appointments
 
 - Research and Teaching Assistant, Civil and Environmental Engineering Departments and the Utah Water Research Laboratory, *Utah State University*. 2024 - Present.
@@ -47,9 +53,3 @@ author_profile: true
 ## Peer-Reviewed Publication
 
 1. Masteller, C.C., Phillips, C.B., Kostynick, R.P., Castejon-Villalobos, J.F., Lopez, C.G., **Shallue, M.K.**, Bower, J., Sigman, A. (2026). Tracking the trajectory of alluvial channel adjustment reveals along-river shifts in sediment mobility. *Geophysical Research Letters*, 53. [doi.org/10.1029/2026GL122483](https://doi.org/10.1029/2026GL122483)
-
-  </div>
-  <div style="width: 300px; text-align: center;">
-    <img src="/images/pages_images/field.jpg" style="width: 100%; border-radius: 5px;">
-  </div>
-</div>
