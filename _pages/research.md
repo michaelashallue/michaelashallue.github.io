@@ -2,6 +2,15 @@
 permalink: /research/
 title: "Research"
 author_profile: true
+gallery_placebased:
+  - image_path: /images/pages_images/RainfallSimulator.jpg
+  - image_path: /images/pages_images/Blanding.jpg
+gallery_osl:
+  - image_path: /images/pages_images/Dewey.jpg
+  - image_path: /images/pages_images/OSL_Sample.jpg
+gallery_cdc:
+  - image_path: /images/pages_images/CdC_RainGage.jpg
+  - image_path: /images/pages_images/CdC_StreamGage.jpg
 ---
 
 ## Ongoing Projects
@@ -17,6 +26,8 @@ The Elwha River's dams were removed, starting in 2011. The US Geological Survey 
 *MSc Project*
 
 Under-representation of ethnic minorities in higher education geoscience is an ongoing issue and is most severe with Native students. I have created a hands-on, place-based exercise to work with Native students through USU's Native American Summer Mentorship Program and the Upward Bound Program at the USU Blanding Campus. This exercise uses a rainfall simulator to teach hillslope hydrology so students can understand dryland infiltration-runoff processes and how it applies to their local communities. This research was completed for my master's thesis, advised by Dr. Joel Pederson.
+
+{% include gallery id="gallery_placebased" %}
 
 ---
 
@@ -34,9 +45,13 @@ Reasons behind Colorado River incision have raised questions about how the river
 
 [Final report](https://cnha.org/wp-content/uploads/2025/01/Dewey-incision-history_CNHA-Discovery-Report.pdf)
 
+{% include gallery id="gallery_osl" %}
+
 ---
 
 ### Watershed Modeling to Predict the Hydrological Impacts of Climate and Land Use
 *BS Project*
 
 Persisting drought across the Navajo Nation has led to questions about how water availability will change as climate change continues and subsequent land use change occurs. To investigate how water availability will respond to climate and land use, I used a physically-based watershed model for Black Rock Canyon within Canyon de Chelly National Monument. This research was used for my undergraduate research thesis at Northern Arizona University, mentored by Dr. Taylor Joyal, in conjunction with NAU MS student Natalia Shaw's thesis.
+
+{% include gallery id="gallery_cdc" %}
