@@ -2,8 +2,6 @@
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
-header:
-  image: /headers/Arches.jpg
 gallery_teaching_top:
   - image_path: /pages_images/teach1.jpg
   - image_path: /pages_images/teach3.jpg
