@@ -41,6 +41,6 @@ author_profile: true
 - Master's Degree Thesis Grant, *Four Corners Geological Society*, 2022 ($1,000).
 - Virginia L. Korte Undergraduate Research Award, *Northern Arizona University* ($500).
 
-## Peer-Reviewed Publications
+## Peer-Reviewed Publication
 
 1. Masteller, C.C., Phillips, C.B., Kostynick, R.P., Castejon-Villalobos, J.F., Lopez, C.G., **Shallue, M.K.**, Bower, J., Sigman, A. (2026). Tracking the trajectory of alluvial channel adjustment reveals along-river shifts in sediment mobility. *Geophysical Research Letters*, 53. [doi.org/10.1029/2026GL122483](https://doi.org/10.1029/2026GL122483)
