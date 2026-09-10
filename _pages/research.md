@@ -2,8 +2,6 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-header:
-  image: /headers/BearRiverMtns.jpg
 gallery_placebased:
   - image_path: /pages_images/RainfallSimulator.jpg
     title: "Rainfall Simulator"
