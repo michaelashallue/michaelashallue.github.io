@@ -27,6 +27,7 @@ author_profile: true
   </div>
 </div>
 
+
 ## Appointments
 
 - Research and Teaching Assistant, Civil and Environmental Engineering Departments and the Utah Water Research Laboratory, *Utah State University*. 2024 - Present.
