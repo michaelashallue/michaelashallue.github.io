@@ -37,3 +37,9 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.page__hero-image {
+  height: 275px;
+  object-fit: cover;
+  width: 100%;
+}
