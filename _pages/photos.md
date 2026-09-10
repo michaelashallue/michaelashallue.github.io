@@ -49,7 +49,7 @@ gallery_r13:
 gallery_r14:
   - image_path: /photos/r14_1.jpg
   - image_path: /photos/r14_2.jpg
-  - image_path: /photos/r14_4.jpg
+  - image_path: /photos/r14_3.jpg
 gallery_r15:
   - image_path: /photos/r15_1.jpg
   - image_path: /photos/r15_2.jpg
