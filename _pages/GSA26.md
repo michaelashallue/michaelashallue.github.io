@@ -28,17 +28,17 @@ Questions? Contact: michaela.shallue@usu.edu
 
 ---
 
-# Poster
-
-[![Poster preview](images/GSA26_Poster.png)](poster/GSA26_Poster.pdf)
-
-[View the full-resolution poster (PDF)](poster/GSA26_Poster.pdf)
-
----
-
 # Abstract
 
 Flooding in dryland riverscapes is shaped by both hydrologic and geomorphic drivers. Dryland streams in the southwestern United States experience flooding in response to warm season monsoon storms that produce high magnitude, short duration precipitation, despite occurring in arid and drought prone landscapes. Standard flood recurrence methods, such as the Annual Maximum Series (AMS), can obscure true flood frequency in systems where several flood events may cluster within one monsoon season and then be followed by years of prolonged drought. Hydrologic flood recurrence approaches also fail to capture geomorphic drivers of flooding: bed aggradation can reduce channel capacity, elevate the water surface, and lower the discharge threshold needed to cause flooding. To better characterize flood frequency and magnitude in relation to both hydrologic and geomorphic drivers, we apply a Peaks Over Threshold (POT) method to high resolution (15 minute) stage and discharge data from US Geological Survey gages. These data come from dryland rivers and streams in Arizona, Utah, New Mexico, and Nevada, spanning perennial, intermittent, and ephemeral flow regimes. Using topographically defined flood thresholds, we independently assess the frequency of high flow stages versus high discharges to isolate the relative contributions of hydrologic forcing and channel bed change. This approach highlights how dryland flood hazard reflects both the undercounting of wet years and the flooding potential of rivers experiencing drought due to high sediment loads and persistent bed aggradation. Improving flood hazard characterization in these geomorphically dynamic riverscapes is essential for understanding how dryland channels respond to hydroclimatic variability and for mitigating damages to infrastructure and loss of life in flash flood prone landscapes.
+
+---
+
+# Poster
+
+[![Poster preview](/images/GSA26_Poster.png)](/files/GSA26_Poster.pdf)
+
+[View the full-resolution poster (PDF)](/files/GSA26_Poster.pdf)
 
 ---
 
