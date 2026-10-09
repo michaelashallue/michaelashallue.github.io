@@ -30,9 +30,9 @@ Questions? Contact: michaela.shallue@usu.edu
 
 # Poster
 
-[![Poster preview](images/poster_preview.png)](poster/Shallue_GSA26_poster.pdf)
+[![Poster preview](images/GSA26_Poster.png)](poster/GSA26_Poster.pdf)
 
-[Download the full-resolution poster (PDF)](poster/Shallue_GSA26_poster.pdf)
+[View the full-resolution poster (PDF)](poster/GSA26_Poster.pdf)
 
 ---
 
@@ -55,7 +55,7 @@ Flooding in dryland riverscapes is shaped by both hydrologic and geomorphic driv
 
 ---
 
-# Code and Data
+# Software Used
 
 - Bocharov, G. (2023). *pyextremes Python library* [Software]. GitHub. https://github.com/georgebv/pyextremes
 - Patterson, N. (2025). *INFLECT: INFLection-based Elevations from Channel Topography* [Software]. GitHub. https://github.com/USU-CIROH/INFLECT
