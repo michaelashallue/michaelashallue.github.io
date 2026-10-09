@@ -9,6 +9,7 @@ author_profile: true
 Michaela K. Shallue<sup>1</sup>, Noelle Patterson<sup>1</sup>, Julianne Scamardo<sup>2</sup>, Colin B. Phillips<sup>1</sup>
 
 <sup>1</sup>Department of Civil and Environmental Engineering & the Utah Water Research Laboratory, Utah State University, Logan, Utah, USA
+
 <sup>2</sup>Water, Earth, and Environmental Sciences, Utah State University, Logan, Utah, USA
 
 *Session No. 128: T74. Riverscapes in transition: Advances in fluvial geomorphology, sediment transport, deposition, river health, and urban rivers (Posters)*
