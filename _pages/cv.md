@@ -4,7 +4,7 @@ title: "CV"
 author_profile: true
 ---
 
-**[Download full CV (PDF)](/files/Shallue_CV.pdf)** — Last updated September 2026
+**[Download full CV (PDF)](/files/Shallue_CV.pdf)** — Last updated October 2026
 
 ## Education
 
