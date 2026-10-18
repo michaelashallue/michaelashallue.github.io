@@ -2,12 +2,10 @@
 permalink: /about/
 title: "About Me"
 author_profile: true
-gallery:
-  - url: images/pages_images/KidMichaela_Glacier.jpg
-    image_path: images/pages_images/KidMichaela_Glacier.jpg
-    title: "Thinking about rocks in Glacier NP"
-  - url: images/pages_images/me.jpg
-    image_path: images/pages_images/me.jpg
+gallery_about:
+  - image_path: /pages_images/KidMichaela_Glacier.jpg
+    title: "Thinking about rocks in Glacier NP ca. 2000"
+  - image_path: /pages_images/me.jpg
     title: "Geomorphology is fun!"
 ---
 
@@ -15,4 +13,4 @@ I grew up in Montana and Arizona, and a fun fact about me is that I've lived alo
 
 Outside of research, I spend my time on the things that keep me grounded: hiking and backpacking, reading, yoga, [digital and film photography](/photos/), floating rivers, knitting and crocheting, hanging out with my cat, and exploring the landscapes of the Colorado Plateau and the broader Intermountain West.
 
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery_about" layout="half" %}
