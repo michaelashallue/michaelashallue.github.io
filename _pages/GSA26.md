@@ -60,9 +60,4 @@ Flooding in dryland riverscapes is shaped by both hydrologic and geomorphic driv
 - Bocharov, G. (2023). *pyextremes Python library* [Software]. GitHub. https://github.com/georgebv/pyextremes
 - Patterson, N. (2025). *INFLECT: INFLection-based Elevations from Channel Topography* [Software]. GitHub. https://github.com/USU-CIROH/INFLECT
 
----
-
-# Supplemental Material
-
-*Coming soon: additional figures and site-level results.*
 
