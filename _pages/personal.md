@@ -5,11 +5,9 @@ author_profile: true
 gallery:
   - url: /images/pages_images/KidMichaela_Glacier.jpg
     image_path: /images/pages_images/KidMichaela_Glacier.jpg
-    alt: "Michaela as a kid in Glacier National Park"
     title: "Thinking about rocks in Glacier NP"
   - url: /images/pages_images/me.jpg
     image_path: /images/pages_images/me.jpg
-    alt: "Michaela"
     title: "Geomorphology is fun!"
 ---
 
