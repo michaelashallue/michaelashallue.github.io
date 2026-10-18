@@ -21,17 +21,24 @@ gallery_cdc:
 
 ## Ongoing Projects
 
+### Dryland channels flood more often than annual maximum series suggest
+*PhD Project*
+
+Standard flood-frequency methods use the annual maximum series (AMS), which keeps one flood per year. Dryland streams in the southwestern US can flood several times in one monsoon season, then not at all for years. I apply a peaks-over-threshold (POT) method to 15-minute stage and discharge records at selected sites, with flood thresholds from 1-m LiDAR. POT gives shorter bankfull recurrence intervals than AMS at every site, and bankfull flows recur more often than the 4+ years often assumed for dryland rivers. I now separate the effects of water supply and channel bed aggradation on flood frequency.
+
+I presented this research at [GSA Connects 2026](https://michaelashallue.github.io/GSA26/).
+
 ### Dam removal reveals influence of sediment availability on transport dynamics
 *PhD Project*
 
-The Elwha River's dams were removed, starting in 2011. The US Geological Survey collected extensive suspended load data for five years following the removal. This project expands upon [MaGirl et al. (2015)](https://doi.org/10.1016/j.geomorph.2014.12.032), and uses the USGS dataset ([Ritchie et al., 2018](https://data.usgs.gov/datacatalog/data/USGS:5a25e9f2e4b03852baf67f06)) to better understand suspended sediment dynamics. This research has been advised by Dr. Colin Phillips.
+Dam removal on the Elwha River began in 2011. Using five years of USGS daily suspended sediment data ([Ritchie et al., 2018](https://data.usgs.gov/datacatalog/data/USGS:5a25e9f2e4b03852baf67f06)), I extend [MaGirl et al. (2015)](https://doi.org/10.1016/j.geomorph.2014.12.032) and show that suspended sediment concentration (SSC) at comparable discharges falls each year after year two, consistent with declining sediment supply. I compare observed sediment flux to a Rouse-Vanoni transport model and relate the low-SSC threshold on falling hysteresis limbs to the critical shear stress for bedload transport. 
 
 ## Past Projects
 
 ### Place-based learning of storm hydrology to increase Native student affinity toward geoscience
 *MSc Project*
 
-Under-representation of ethnic minorities in higher education geoscience is an ongoing issue and is most severe with Native students. I have created a hands-on, place-based exercise to work with Native students through USU's Native American Summer Mentorship Program and the Upward Bound Program at the USU Blanding Campus. This exercise uses a rainfall simulator to teach hillslope hydrology so students can understand dryland infiltration-runoff processes and how it applies to their local communities. This research was completed for my master's thesis, advised by Dr. Joel Pederson.
+Under-representation of ethnic minorities in higher education geoscience is an ongoing issue and is most severe with Native students. I have created a hands-on, place-based exercise to work with Native students through USU's Native American Summer Mentorship Program and the Upward Bound Program at the USU Blanding Campus. This exercise uses a rainfall simulator to teach hillslope hydrology so students can understand dryland infiltration-runoff processes and how it applies to their local communities. This research was completed for my master's thesis.
 
 {% include gallery id="gallery_placebased" %}
 
