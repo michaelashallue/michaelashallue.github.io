@@ -24,7 +24,7 @@ gallery_cdc:
 ### Dryland channels flood more often than annual maximum series suggest
 *PhD Project*
 
-Standard flood-frequency methods use the annual maximum series (AMS), which keeps one flood per year. Dryland streams in the southwestern US can flood several times in one monsoon season, then not at all for years. I apply a peaks-over-threshold (POT) method to 15-minute stage and discharge records at selected sites, with flood thresholds from 1-m LiDAR. POT gives shorter bankfull recurrence intervals than AMS at every site, and bankfull flows recur more often than the 4+ years often assumed for dryland rivers. I now separate the effects of water supply and channel bed aggradation on flood frequency.
+Standard flood-frequency methods use the annual maximum series (AMS), which keeps one flood per year. Dryland streams in the southwestern US can flood several times in one monsoon season, then not at all for years. We apply a peaks-over-threshold (POT) method to 15-minute stage and discharge records at selected sites, with flood thresholds from 1-m LiDAR. POT gives shorter bankfull recurrence intervals than AMS at every site, and bankfull flows recur more often than the 4+ years often assumed for dryland rivers.
 
 I presented this research at [GSA Connects 2026](https://michaelashallue.github.io/GSA26/).
 
