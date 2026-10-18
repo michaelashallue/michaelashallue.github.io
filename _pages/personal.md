@@ -3,11 +3,11 @@ permalink: /about/
 title: "About Me"
 author_profile: true
 gallery:
-  - url: /images/pages_images/KidMichaela_Glacier.jpg
-    image_path: /images/pages_images/KidMichaela_Glacier.jpg
+  - url: images/pages_images/KidMichaela_Glacier.jpg
+    image_path: images/pages_images/KidMichaela_Glacier.jpg
     title: "Thinking about rocks in Glacier NP"
-  - url: /images/pages_images/me.jpg
-    image_path: /images/pages_images/me.jpg
+  - url: images/pages_images/me.jpg
+    image_path: images/pages_images/me.jpg
     title: "Geomorphology is fun!"
 ---
 
