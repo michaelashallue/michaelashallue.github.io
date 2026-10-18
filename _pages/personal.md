@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 author_profile: true
-
+---
 
 I grew up in Montana and Arizona, and a fun fact about me is that I've lived along US Highway 89 my whole life. My passion for geology began during visits to Glacier National Park, where both the rainbow-colored cobbles in Lake McDonald and the sweeping U-shaped valleys sparked my curiosity about the landscapes around us.
 
