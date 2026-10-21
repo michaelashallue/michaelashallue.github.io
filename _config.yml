@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Michaela K. Shallue"
+title                    : "Michaela Shallue"
 title_separator          : "-"
 name                     : &name "Michaela K. Shallue"
 description              : &description "Michaela Shallue, PhD candidate at Utah State University studying fluvial geomorphology, sediment transport, and river response to floods."  
