@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Bio"
 excerpt: "PhD candidate in fluvial geomorphology at Utah State University"
 author_profile: true
 ---
